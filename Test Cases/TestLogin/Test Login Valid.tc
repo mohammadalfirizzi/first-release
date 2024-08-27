@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login w/ Credential</description>
+   <name>Test Login Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12dc97c1-aab1-4908-bc2e-0bb1d1f256aa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>80809122-da52-4234-b31c-cc1963a99bc9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6bdf891-b8b8-4cf5-8ff4-2c41bd00644a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>80809122-da52-4234-b31c-cc1963a99bc9</id>
+      <masked>false</masked>
+      <name>ns_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>b6bdf891-b8b8-4cf5-8ff4-2c41bd00644a</id>
+      <masked>false</masked>
+      <name>ns_password</name>
+   </variable>
+</TestCaseEntity>

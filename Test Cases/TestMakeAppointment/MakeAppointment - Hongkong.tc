@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A</description>
+   <name>MakeAppointment - Hongkong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cdb3999-83ca-470b-9b24-dd0bc371f5b3</testCaseGuid>
+</TestCaseEntity>

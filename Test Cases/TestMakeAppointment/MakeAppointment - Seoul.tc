@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A</description>
+   <name>MakeAppointment - Seoul</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed0c7494-2d33-4fe8-b71c-59fad4f35782</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b26d7020-38d4-464d-9f6f-44cdae2dab65</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Facilities/TestData - F')</defaultValue>
+      <description></description>
+      <id>b26d7020-38d4-464d-9f6f-44cdae2dab65</id>
+      <masked>false</masked>
+      <name>dynamic</name>
+   </variable>
+</TestCaseEntity>

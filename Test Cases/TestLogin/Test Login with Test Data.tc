@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login w/ Credential</description>
+   <name>Test Login with Test Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4adb2ae5-8a88-4c71-8599-7e973405e989</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>823ffb81-ad45-4b46-9c55-3b24fde23e1d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f874e3d-b798-4e67-b2ea-0d91504706c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>823ffb81-ad45-4b46-9c55-3b24fde23e1d</id>
+      <masked>false</masked>
+      <name>ns_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>3f874e3d-b798-4e67-b2ea-0d91504706c1</id>
+      <masked>false</masked>
+      <name>ns_password</name>
+   </variable>
+</TestCaseEntity>

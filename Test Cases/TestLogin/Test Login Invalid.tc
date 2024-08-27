@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Login Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27c5b9bc-9950-4fd0-ab26-32d45c2a2582</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daf8fd5c-e608-4484-8cef-e5b28892c0fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://demoaut.katalon.com/'</defaultValue>
+      <description></description>
+      <id>daf8fd5c-e608-4484-8cef-e5b28892c0fb</id>
+      <masked>false</masked>
+      <name>base_url</name>
+   </variable>
+</TestCaseEntity>
